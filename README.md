@@ -1,6 +1,7 @@
 # parcial2-programacion
+laura velasquqez , jordi hernandez 
 
-Sistema de Biblioteca
+Sistema de Bibliot
 
 
 
