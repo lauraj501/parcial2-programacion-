@@ -16,3 +16,6 @@ la clase libro tendra los siguientes atributos: titulo: El título del libro.
 autor: El autor del libro. isbn: El ISBN del libro.
 estado: Indica si el libro está "disponible" o "prestado".
 la clase Usuario con atributos como nombre, ID y libros prestados.
+
+
+https://github.com/lauraj501/parcial2-programacion-/blob/principal/Biblioteca.java
