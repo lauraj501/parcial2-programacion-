@@ -6,8 +6,8 @@ Sistema de Biblioteca
 es programa que permite   gestiones una bilioteca , con usario que costantemente se resgistrando cada usario y guardando los tados que ingresa el usario  
 
 
-
 laura velasquez 192362; Jordi Hernandez 192283
+
 El programa debe permitir a los usuarios registrar libros, prestar y devolver libros, y consultar el estado de los mismos.
 las clases principales seran:
 Clase Libro: Representa un libro en la biblioteca. Clase Usuario: Representa un usuario que puede prestar libros.
