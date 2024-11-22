@@ -1,7 +1,10 @@
 # parcial2-programacion
-laura velasquqez , jordi hernandez 
+laura velasque , jordi hernandez 
 
-Sistema de Bibliot
+Sistema de Biblioteca 
+
+es programa que permite   gestiones una bilioteca , con usario que costantemente se resgistrando cada usario y guardando los tados que ingresa el usario  
+
 
 
 
